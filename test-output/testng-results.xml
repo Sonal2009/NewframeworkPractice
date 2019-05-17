@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37" started-at="2019-05-17T04:15:10Z" finished-at="2019-05-17T04:15:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37" started-at="2019-05-17T04:15:10Z" finished-at="2019-05-17T04:15:10Z">
+      <class name="TestCases.AppiumTest">
+        <test-method status="PASS" signature="IosAppr()[pri:0, instance:TestCases.AppiumTest@7cdbc5d3]" name="IosAppr" duration-ms="16" started-at="2019-05-16T21:15:10Z" finished-at="2019-05-16T21:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosAppr -->
+        <test-method status="PASS" signature="NativeApp()[pri:0, instance:TestCases.AppiumTest@7cdbc5d3]" name="NativeApp" duration-ms="2" started-at="2019-05-16T21:15:10Z" finished-at="2019-05-16T21:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApp -->
+      </class> <!-- TestCases.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
